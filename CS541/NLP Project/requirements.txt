@@ -1,0 +1,12 @@
+fuzzywuzzy
+selenium
+wordcloud
+beautifulsoup4
+requests
+numpy
+pandas
+nltk
+spacy
+matplotlib
+gensim
+scikit-learn
