@@ -3,14 +3,14 @@ This is my work from the MsCS at Stevens Institute of Technology
 
 Classes Completed:
 Electives: 
-BME507: Applications of Statistics in Biomedical Engineering
-BME571: Machine Learning in Biomedical Engineering
-ME598: Introduction to Robotics
+BME507: Applications of Statistics in Biomedical Engineering <br>
+BME571: Machine Learning in Biomedical Engineering <br>
+ME598: Introduction to Robotics <br>
 
 Major Specific Course:
-CPE646: Pattern Recognition and Classification
-CS583: Deep Learning
-CS556: Fundementals of Machine Learning
-CS541: Artifical Intelligence
-CS548: Natural Language Processing
-CS558: Computer Vision
+CPE646: Pattern Recognition and Classification<br>
+CS583: Deep Learning<br>
+CS556: Fundementals of Machine Learning<br>
+CS541: Artifical Intelligence<br>
+CS548: Natural Language Processing<br>
+CS558: Computer Vision<br>
