@@ -12,4 +12,5 @@ CPE646: Pattern Recognition and Classification
 CS583: Deep Learning
 CS556: Fundementals of Machine Learning
 CS541: Artifical Intelligence
-CPE608: Applied Modeling and Optimization 
+CS548: Natural Language Processing
+CS558: Computer Vision
